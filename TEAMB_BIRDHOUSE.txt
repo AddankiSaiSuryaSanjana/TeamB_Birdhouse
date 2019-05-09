@@ -1,0 +1,74 @@
+			DOCUMENTATION
+
+BASIC REQUIREMENTS FOR DESIGNING WEBSITE ::
+
+Content : It gives an idea about the website.
+
+Navigation : Its crucial in website designing . Without this they cant find about our website. Its very easy 
+to use and clearly visible .Some examples are home pages,"About us" and "Back" and "Previous" buttons
+
+Site map : All websites need to have a search box, this is particularly the  case, if you want people to 
+explore and learn all about your website and  services. The search box should be visible, working 
+and easy to use.
+
+Signup : When you need a user to sign up for a service, keep the process as simple as possible.
+ 3-4 steps on a single page is usually the limit in terms of the number of steps a user is willing 
+to put up with to sign up for your service. In case more steps are required, arrange them sequentially
+ in one page itself.
+
+Login : For Login Purpose it requires only username and password.For recognizing that username and 
+password is correct . Storing that usernames as keys and passwords as values while they are accessing
+if it is correct then it will let them to login successfully by printing a message like you have successfully 
+logged in andif it is not correct print them a incorrect username or password message.. 
+
+Web Site should have a link to the “Contact Us” page or have the  necessary number. This number/link 
+needs to be easily visible.They can report if they have any queries related to that .
+
+Web Site Overview : 
+
+For Birds:
+Customers : They should know about the bird species , its age , its health condition and about the sellers place 
+and cost price of the bird.
+Sellers : They have to publish thier details regarding birds and have to inform their address
+
+For bird houses:
+It has some specific conditions for specific birds . It mainly depends upon comfortment of birds whether its 
+suitable for it or not as per climatic conditions it survives.
+Specifications for houses are mentioned there:
+about remaining pieces avaiable, size of that house , material required for that house like wood,metal....
+Feature is Ecofriendly, Outdoor....
+
+Web design prerequisites:
+
+Creativity
+HTML : used to align and create web pages and position elements.As we create web pages using  some 
+codes available in html. Through this we will create home page , about page etc pages required for that
+website.And also by creating next and previous buttons through html.
+
+CSS : Beautify and style Elements on the screen.It lets you to give different styles for font to appear 
+effictively and attractively.As it plays an important role in website.
+
+Javascript : Add Responsiveness to your site . Make things come alive.
+
+Bootstrap : A decent framework for quick and efficient development.It is to create responsive 
+websites that runs good on any device.Bootstrap is a front-end framework which can support 
+the creation of dynamic applications and websites. It can help save the coding efforts by 
+offering a lot of CSS functionalities.
+
+
+A Database (like MySQL): Databases are used for managing and creating databases which provide
+programmers and users with a way to create, retrieve, update and manage data.It is used 
+to create tables for our website which we need forvarious types of birds, types
+ of bird houses , types of bird feeds for their respective specifications .
+
+Front-end developers are responsible for a website’s user-interface and the user-experience 
+architecture. They work closely with designers to construct and improve the ui/ ux of a website.
+ A good front-end developer can be able to accurately identify specific issues in user-experience 
+and provide recommendations and coding solutions to improve the design.
+
+Back-end developers generally handle the server and the data. Their job is to build an application 
+and also to design/ implement it’s interaction with the server and the database. They manipulate
+data and also work with public and private API’s. A good back-end developer should have a sound 
+knowledge of Linux/ Windows as a development and deployment system; 
+he/ she should also have insights on different version control systems such as GIT/ SVN.
+
